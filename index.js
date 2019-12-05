@@ -110,7 +110,7 @@ const fi = (function() {
       return Object.values(object);
     },
     giveMeMore: function(){
-      return "come get more things to do from an instructor"
+      return 
     },
 
     functions:function(obj){
